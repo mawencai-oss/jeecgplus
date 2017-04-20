@@ -59,7 +59,7 @@
 					<a href="#" class="navbar-brand">
 						<small>
 							<i class="icon-leaf"></i>
-							JEECG 微云快速开发平台
+							智能开发平台
 						</small>
 					</a><!-- /.brand -->
 				</div><!-- /.navbar-header -->
@@ -240,7 +240,7 @@
 								</li>
 								
 								<li>
-									<a href="http://yun.jeecg.org" target="_blank">
+									<a href="http://wwww.bjzzf.info" target="_blank">
 										<i class="icon-cloud"></i>
 										 云应用中心
 									</a>

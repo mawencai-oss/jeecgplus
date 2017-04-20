@@ -10,7 +10,7 @@
     <!--360浏览器优先以webkit内核解析-->
 
 
-    <title>Jeecg 微云快速开发平台</title>
+    <title>智能开发平台</title>
 
     <link rel="shortcut icon" href="images/favicon.ico">
     <link href="plug-in-ui/hplus/css/bootstrap.min.css?v=3.3.6" rel="stylesheet">
@@ -29,7 +29,7 @@
                 <br>您是否一直在苦苦寻找一款强大的代码生成器，节省码农的繁琐重复工作…
                 <br>您是否想拥有移动报表能力、自定义表单设计能力、插件开发能力(可插拔)、工作流配置能力…
                 <br>…………
-                <h4 class="text-danger">那么，现在Jeecg来了</h4>
+                <h4 class="text-danger">那么，现在智能开发平台来了</h4>
             </blockquote>
             <hr>
         </div>
@@ -43,27 +43,27 @@
         </div>
         <div class="col-sm-5">
             <h2>
-                            Jeecg 微云快速开发平台
+                            智能开发平台
                         </h2>
-            <p>JEECG是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单)->代码生成器模式->手工MERGE智能开发)， 可以帮助解决Java项目60%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。她可以用于所有的Web应用程序，如:<b>MIS</b>，<b>CRM</b>，<b>OA</b>，<b>ERP</b>，<b>CMS</b>，<b>网站后台</b>，<b>微信管家</b>，等等，当然，您也可以对她进行深度定制，以做出更强系统。</p>
+            <p>JEECGPLUS是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单)->代码生成器模式->手工MERGE智能开发)， 可以帮助解决Java项目60%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。她可以用于所有的Web应用程序，如:<b>MIS</b>，<b>CRM</b>，<b>OA</b>，<b>ERP</b>，<b>CMS</b>，<b>网站后台</b>，<b>微信管家</b>，等等，当然，您也可以对她进行深度定制，以做出更强系统。</p>
             <p>
-                <b>当前版本：</b>v3.6.6
+                <b>当前版本：</b>v1.0.1
             </p>
             <p>
                 <span class="label label-warning">开源     免费</span>
             </p>
             <br>
             <p>
-                <a class="btn btn-success btn-outline" href="http://www.jeecg.org/" target="_blank">
+                <a class="btn btn-success btn-outline" href="http://www.bjzzf.info/" target="_blank">
                     <i class="fa fa-qq"> </i> 联系我们
                 </a>
-                <a class="btn btn-white btn-bitbucket" href="http://blog.csdn.net/zhangdaiscott" target="_blank">
+                <a class="btn btn-white btn-bitbucket" href="http://www.bjzzf.info/" target="_blank">
                     <i class="fa fa-home"></i> 访问博客
                 </a>
             </p>
         </div>
         <div class="col-sm-4">
-            <h4>Jeecg具有以下特点：</h4>
+            <h4>智能开发平台具有以下特点：</h4>
             <ol>
                 <li>采用主流J2EE框架，容易上手;</li>
                 <li>强大的代码生成器，一键生成</li>
@@ -94,11 +94,11 @@
                         <h5>商业支持</h5>
                     </div>
                     <div class="ibox-content">
-                        <p>我们提供基于Jeecg的二次开发服务，具体费用请联系官方。</p>
+                        <p>我们提供基于智能开发平台的二次开发服务，具体费用请联系官方。</p>
                         <p>同时，我们也提供以下服务：</p>
                         <ol>
-                            <li>Jeecg工作流开发平台 (商业版)</li>
-                            <li>Jeewx微信管家 (商业版)</li>
+                            <li>工作流开发平台 (商业版)</li>
+                            <li>微信管家 (商业版)</li>
                             <li>OA办公系统 (商业版)</li>
                             <li>专业H5活动开发</li>
                         </ol>
@@ -110,13 +110,13 @@
 
                     </div>
                     <div class="ibox-content">
-                        <p><i class="fa fa-send-o"></i> 官网：<a href="http://www.jeecg.org" target="_blank">http://www.jeecg.org</a>
+                        <p><i class="fa fa-send-o"></i> 官网：<a href="http://www.bjzzf.info" target="_blank">http://www.bjzzf.info</a>
                         </p>
-                        <p><i class="fa fa-qq"></i> QQ群：<a href="javascript:;">106838471</a>
+                        <p><i class="fa fa-qq"></i> QQ群：<a href="javascript:;">100000000</a>
                         </p>
-                        <p><i class="fa fa-weixin"></i>微信公众号：<a href="javascript:;">jeecg</a>
+                        <p><i class="fa fa-weixin"></i>微信公众号：<a href="javascript:;">正在开发</a>
                         </p>
-                        <p><i class="fa fa-credit-card"></i> 邮箱：<a href="javascript:;" class="邮箱">jeecg@sina.com</a>
+                        <p><i class="fa fa-credit-card"></i> 邮箱：<a href="javascript:;" class="邮箱">test@126.com</a>
                         </p>
                     </div>
                 </div>
@@ -235,7 +235,7 @@
                                     <div id="v33" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <ol>
-                                                <li>更多版本，请详见论坛：www.jeecg.org</li>
+                                                <li>更多版本，请详见论坛：www.bjzzf.info</li>
                                             </ol>
                                         </div>
                                     </div>
@@ -249,10 +249,10 @@
             <div class="col-sm-4">
                 <div class="ibox float-e-margins">
                     <div class="ibox-title">
-                        <h5>JEECG 适用范围</h5>
+                        <h5>适用范围</h5>
                     </div>
                     <div class="ibox-content">
-                        <p>为什么选择jeecg？</p>
+                        <p>为什么选择智能平台？</p>
                         <ol>
                             <li>采用主流框架，容易上手，学习成本低；</li>
                             <li>强大代码生成器和在线配置能力，提高开发效率，大大缩短项目周期；</li>
@@ -264,7 +264,7 @@
                             <li>……</li>
                         </ol>
                         <hr>
-                        <div class="alert alert-warning">JEECG智能开发平台，可以应用在任何J2EE项目的开发中，尤其适合企业信息管理系统（MIS）、内部办公系统（OA）、企业资源计划系统（ERP） 、客户关系管理系统（CRM）等，其半智能手工Merge的开发方式，可以显著提高开发效率60%以上，极大降低开发成本。
+                        <div class="alert alert-warning">智能开发平台，可以应用在任何J2EE项目的开发中，尤其适合企业信息管理系统（MIS）、内部办公系统（OA）、企业资源计划系统（ERP） 、客户关系管理系统（CRM）等，其半智能手工Merge的开发方式，可以显著提高开发效率60%以上，极大降低开发成本。
                         </div>
                     </div>
                 </div>

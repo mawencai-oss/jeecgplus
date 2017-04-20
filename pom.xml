@@ -942,8 +942,8 @@
 	</dependencies>
 
 	<organization>
-		<name>JEECG 智能快速开发平台</name>
-		<url>www.jeecg.org</url>
+		<name>智能快速开发平台</name>
+		<url>www.bjzzf.info</url>
 	</organization>
 	<build>
 		<plugins>

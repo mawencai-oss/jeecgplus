@@ -11,7 +11,7 @@
 
 <html>
 <head>
-<title>JEECG</title>
+<title>JEECGPLUS</title>
     <link rel="shortcut icon" href="resources/fc/images/icon/favicon.ico">
     <script src=<%=langurl%> type="text/javascript"></script>
     <!--[if lt IE 9]>
@@ -39,7 +39,7 @@
 
     <div class="login">
     	<ul class="titleName">
-        	<li class="english">JEECG|BPMN</li>
+        	<li class="english">JEECGPLUS|BPMN</li>
             <li class="chinese">演示系统</li>
         </ul>
         <ul class="loginInfo">
@@ -75,7 +75,7 @@
     </div>
 
     <div class="copyright ">
-    	<span>&copy; JEECG 版权所有 <span class="tip"><a href="#" title=JEECG 演示系统>jeecg</a> (推荐使用IE8+,谷歌浏览器) 技术支持：:<a href="#" title=JEECG 演示系统>jeecg</a></span></span>
+    	<span>&copy; 北京智征峰科技有限公司版权所有 <span class="tip"><a href="#" title=智能演示系统>jeecgplus</a> (推荐使用IE8+,谷歌浏览器) 技术支持：:<a href="#" title=智能 演示系统>jeecgplus</a></span></span>
     </div>       
 </div>
 </form>
